@@ -15,7 +15,8 @@ import spark.Spark;
  *
  * @author tiendungmai
  */
-/* chinh sua tren local */
+/* chinh sua tren hop nhat */
+
 public class Task {
 
      public static boolean test(int n) {
